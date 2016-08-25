@@ -1,6 +1,4 @@
 # socket-name-parser
-
-Supplementary module converting TPS socket names into correct form.
  
 ## Methods:
 
