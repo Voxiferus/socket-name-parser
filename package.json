@@ -1,0 +1,11 @@
+{
+  "name": "@tibbo-tps/socket-name-parser",
+  "version": "0.0.1",
+  "description": "Converts TPS socket name to correct form",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Tibbo Technology",
+  "license": "MIT"
+}
